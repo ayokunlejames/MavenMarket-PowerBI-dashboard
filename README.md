@@ -1,1 +1,2 @@
 # MavenMarket-PowerBI-dashboard
+Interactive PowerBI Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiM2M3MWMxZWQtZDJiYi00N2EyLThhYTQtNWM4NDA5MTA5ZjBjIiwidCI6IjYwZDBmZTExLTY5MjAtNGM4Zi1hMzA3LTBhMzRkZDQzNDFmYSJ9
