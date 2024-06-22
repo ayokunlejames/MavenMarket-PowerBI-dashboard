@@ -6,7 +6,7 @@ This Power BI project is my take on the bonus project from the Microsoft Power B
 
 # Project Link
 
-You can view my Power BI report here: (https://app.powerbi.com/view?r=eyJrIjoiM2M3MWMxZWQtZDJiYi00N2EyLThhYTQtNWM4NDA5MTA5ZjBjIiwidCI6IjYwZDBmZTExLTY5MjAtNGM4Zi1hMzA3LTBhMzRkZDQzNDFmYSJ9)
+You can view my Power BI report [here](https://app.powerbi.com/view?r=eyJrIjoiM2M3MWMxZWQtZDJiYi00N2EyLThhYTQtNWM4NDA5MTA5ZjBjIiwidCI6IjYwZDBmZTExLTY5MjAtNGM4Zi1hMzA3LTBhMzRkZDQzNDFmYSJ9)
 
 ## Project Description
 
